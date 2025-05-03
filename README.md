@@ -350,7 +350,8 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-
+Video Link : https://drive.google.com/file/d/13-eFFyEtlmNvwDcEXi8nubCn6kU0mf7i/view?usp=sharing
+PPT Link :  https://drive.google.com/file/d/1fzwMaXflW36lgbY5GSVFr-blCUGKqUva/view?usp=sharing
 ## 🤝 Acknowledgements
 
 - [ACE Cloud Hosting](https://acecloudhosting.com) for providing GPU pricing data
